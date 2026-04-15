@@ -1,0 +1,12 @@
+kiteconnect
+streamlit
+pandas
+ta
+streamlit-autorefresh
+altair
+python-binance
+pytz
+plotly
+python-dotenv
+feedparser
+numpy
